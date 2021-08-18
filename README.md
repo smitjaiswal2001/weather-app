@@ -1,2 +1,6 @@
 # weather-app
-weather app using python &amp; api.
+weather app using python & api.
+requirenements
+install tkinter     
+install request
+install time
